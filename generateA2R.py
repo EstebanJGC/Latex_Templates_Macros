@@ -2,7 +2,6 @@
 #
 # Project     : Templates
 # Filename    : generateA2R.py
-# Root        : ./scripts
 # Author      : Dr. Esteban J. Garzón C. (esteban.garzon@unical.it)
 # Created     : 08/04/2023, 22:10
 #
